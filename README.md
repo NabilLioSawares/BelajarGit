@@ -7,4 +7,5 @@
   <p>git commit -m "deskripsi file" </p>
   <p>git push -u origin main</p>
   
-![gambar](screenshots/ss
+![gambar](screenshots/ss.png)
+
